@@ -1,0 +1,21 @@
+{
+  "name": "San Mateo Shelter Locator",
+  "short_name": "Shelter Locator",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "description": "A PWA to locate the nearest evacuation shelters in San Mateo and download offline routes.",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
